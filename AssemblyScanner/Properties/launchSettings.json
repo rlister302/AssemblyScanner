@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AssemblyScanner": {
+      "commandName": "Project",
+      "commandLineArgs": "System.Runtime C:\\git\\GridstreamANSIAdapter\\AnsiTest\\bin\\Debug\\net462"
+    }
+  }
+}
